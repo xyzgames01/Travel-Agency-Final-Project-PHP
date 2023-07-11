@@ -1,0 +1,29 @@
+body {
+    color: black;
+    background-color: white;
+}
+
+#main-background {
+
+    background-color: white;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#info-background {
+    background-color: white;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#contact-background {
+    background-color: white;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.slogan {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
